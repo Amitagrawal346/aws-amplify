@@ -21,6 +21,7 @@ class Test extends React.PureComponent {
       {this.state.count}
       <button onClick={this.increment}>increment</button>
       <button onClick={this.increment}>decrement</button>
+      
       </>
     )
   }
