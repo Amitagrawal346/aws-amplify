@@ -22,6 +22,7 @@ class Test extends React.PureComponent {
       <button onClick={this.increment}>increment</button>
       <button onClick={this.increment}>decrement</button>
       <button onClick={this.increment}>decrement2</button>
+      <button onClick={this.increment}>decrement3</button>
       </>
     )
   }
